@@ -30,4 +30,4 @@
                                                                                                                    
                                                                                                                    
 ```
-![Alt Text](https://github.com/lurto/lurto/src/earth.gif)
+![Alt Text](https://raw.githubusercontent.com/lurto/lurto/main/src/earth.gif)
