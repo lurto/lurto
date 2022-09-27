@@ -28,6 +28,27 @@
 
 <hr>
 
+<h3 align="center">
+<a href="https://www.linkedin.com/in/luc-eissengarthen-b033a11b9/" 𝙘𝙝𝙚𝙘𝙠 𝙤𝙪𝙩 𝙢𝙮 𝙡𝙞𝙣𝙠𝙚𝙙𝙞𝙣
+<img src="https://github.com/lurto/lurto/blob/main/src/file.gif?raw=true" alt="file saving" align="center">
+</a>
+</h3>
+
+<hr>
+
+<div align="center">
+<img src="https://github.com/lurto/lurto/blob/main/src/purple_spiral.gif?raw=true" alt="Visit homepage" align="center">
+</div>
+
+<hr>
+
+<div align="center">
+<p>Go sign the guest book :P</p>
+<a href="https://github.com/lurto/lurto/issues/1"><img src="https://github.com/lurto/lurto/blob/main/src/Guestbook.gif?raw=true" alt="Guest book" align="center"></a>
+</div>
+
+<hr>
+
 <div align="center">
 <img src="https://github.com/lurto/lurto/blob/main/src/computer1.gif?raw=true" alt="computer" align="center" width="128">
 </div>
