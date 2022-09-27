@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-<h1>𝙩𝙤 𝙢𝙮 𝙜𝙞𝙩𝙝𝙪𝙗 𝙥𝙖𝙜𝙚</h1>
+<font size="32pt">𝙩𝙤 𝙢𝙮 𝙜𝙞𝙩𝙝𝙪𝙗 𝙥𝙖𝙜𝙚</font>
 </div>
 
 <br>
