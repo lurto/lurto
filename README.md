@@ -29,7 +29,7 @@
 <hr>
 
 <h3 align="center">
-<a href="https://www.linkedin.com/in/luc-eissengarthen-b033a11b9/" 𝙘𝙝𝙚𝙘𝙠 𝙤𝙪𝙩 𝙢𝙮 𝙡𝙞𝙣𝙠𝙚𝙙𝙞𝙣
+<a href="https://www.linkedin.com/in/luc-eissengarthen-b033a11b9/"> 𝙘𝙝𝙚𝙘𝙠 𝙤𝙪𝙩 𝙢𝙮 𝙡𝙞𝙣𝙠𝙚𝙙𝙞𝙣
 <img src="https://github.com/lurto/lurto/blob/main/src/file.gif?raw=true" alt="file saving" align="center">
 </a>
 </h3>
