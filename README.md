@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-<font size="32pt">𝙩𝙤 𝙢𝙮 𝙜𝙞𝙩𝙝𝙪𝙗 𝙥𝙖𝙜𝙚</font>
+<h1>𝙩𝙤 𝙢𝙮 𝙜𝙞𝙩𝙝𝙪𝙗 𝙥𝙖𝙜𝙚</h1>
 </div>
 
 <br>
@@ -33,6 +33,12 @@
 <img src="https://github.com/lurto/lurto/blob/main/src/file.gif?raw=true" alt="file saving" align="center">
 </a>
 </h3>
+
+<br>
+
+<div align="center">
+<img src="https://github.com/lurto/lurto/blob/main/src/purple_spiral.gif?raw=true" alt="Visit homepage" align="center">
+</div>
 
 <br>
 
