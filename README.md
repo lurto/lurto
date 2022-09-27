@@ -37,15 +37,16 @@
 <hr>
 
 <div align="center">
-<img src="https://github.com/lurto/lurto/blob/main/src/purple_spiral.gif?raw=true" alt="Visit homepage" align="center">
+<p>Go sign the guest book :P</p>
+<a href="https://github.com/lurto/lurto/issues/1"><img src="https://github.com/lurto/lurto/blob/main/src/Guestbook.gif?raw=true" alt="Guest book" align="center"></a>
 </div>
 
 <hr>
 
 <div align="center">
-<p>Go sign the guest book :P</p>
-<a href="https://github.com/lurto/lurto/issues/1"><img src="https://github.com/lurto/lurto/blob/main/src/Guestbook.gif?raw=true" alt="Guest book" align="center"></a>
+<img src="https://github.com/lurto/lurto/blob/main/src/purple_spiral.gif?raw=true" alt="Visit homepage" align="center">
 </div>
+
 
 <hr>
 
