@@ -15,7 +15,8 @@
 </div>
  
 <hr>
- 
+
+<div align="center">
 <img src="https://raw.githubusercontent.com/lurto/lurto/main/src/earth.gif" alt="Earth" align="center">
 </div>
 
